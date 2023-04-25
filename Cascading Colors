@@ -120,37 +120,40 @@ background: linear-gradient(to right, #e73827, #f85032); /* W3C, IE 10+/ Edge, F
    <body> 
       <div class = "panel" data-color = "white">
         <div>
-          <h1>Start Scrolling To See changes</h1>
+          <h1>Adam Olson</h1>
         </div>
       </div>
         
       <div class = "panel" data-color = "violet">  
-            <h2>Blue+Deepskyblue</h2>
+            <h2>Cover Letter</h2>
         </div>
         
          
       <div class = "panel" data-color = "indigo">  
-            <h2>Indigo Panel</h2>
-        </div>
+            <h2> <a     href="https://adamolson11.github.io/">Resume</a>
+             
+   </h2>
+     </div>
      
      <div class = "panel" data-color = "blue">  
-            <h2>Blue</h2>
+            <h2>Education </h2>
         </div>
      
       <div class = "panel" data-color = "green">  
-            <h2>Hot</h2>
+            <h2>interests</h2>
         </div>
     <div class = "panel" data-color = "pink">  
-            <h2>Pink</h2>
+            <h2>Linkedin Profile</h2>
         </div>
      <div class = "panel" data-color = "yellow">  
-            <h2>Yellow</h2>
+              <h2> <a href= "https://github.com/adamolson11">  GitHub Profile</a> </h2> 
+              
         </div>
       <div class = "panel" data-color = "orange">  
-            <h2>Orange</h2>
+            <h2>Something else</h2>
         </div>
        <div class = "panel" data-color = "red">  
-            <h2>Red</h2>
+            <h2>Also Something else</h2>
         </div>
    
      <script src="https://code.jquery.com/jquery-3.6.4.js"></script>
