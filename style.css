@@ -1,17 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  background-image: url("https://w0.peakpx.com/wallpaper/53/393/HD-wallpaper-asus-abej-beograd-digital-phone.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 .header {
-  background-color: blue;
-  color: white;
+  background-color: c0c0c0;
+  color: #fff;
   font-size: 24px;
+  font-weight: bold;
   padding: 10px;
+  text-align: center;
 }
 
-.header a {
-  color: white;
-  text-decoration: none;
+.section {
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin-bottom: 20px;
 }
 
-.header a:hover {
-  text-decoration: underline;
+.section h2 {
+  font-size: 18px;
+  margin-top: 0;
+  text-align: center;
 }
 
+.section ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: disc;
+  margin-left: 20px;
+}
 
+.section li {
+  margin-bottom: 5px;
+}
+
+.subheader {
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.job-header {
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.job-dates {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.job-description {
+  margin-bottom: 10px;
+}
